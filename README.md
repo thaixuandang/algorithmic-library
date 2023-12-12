@@ -1,2 +1,2 @@
-# codes-library
-My codes for algorithms and data structures.
+# Algorithmic Library
+My C++ codes for algorithms and data structures.
